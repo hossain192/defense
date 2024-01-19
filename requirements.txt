@@ -8,3 +8,4 @@ Jinja2
 itsdangerous
 MarkupSafe
 pandas
+PIL
